@@ -98,15 +98,6 @@ WITH (
   NULL ''
 );
 ```
-```{sql}
-COPY train_labels
-FROM '/home/ubuntu/AWS/train_labels.csv'
-WITH (
-  FORMAT CSV,
-  HEADER true,
-  NULL ''
-);
-```
 ### Join two tables
 Use Natural Join
 ```{sql}
