@@ -2,8 +2,8 @@
 In this repo, we will use PostgreSQL to gain some insights into the MPP capstone data. 
 
 ## SQL - What is it?
-SQL stands for Structured Query Language
-SQL is a standard language for accessing databases
+SQL stands for Structured Query Language.   
+It is a standard language for accessing databases
 
 ### Common Relational Databases
   * PostgreSQL
