@@ -1,5 +1,49 @@
 # MPP_Capstone_with_SQL
-In this repo, I used PostgreSQL to gain insights into the MPP capstone data
+In this repo, we will use PostgreSQL to gain some insights into the MPP capstone data. 
+
+## SQL - What is it?
+SQL stands for Structured Query Language
+SQL is a standard language for accessing databases
+
+### Common Relational Databases
+  * PostgreSQL
+  * MySQL
+  * MariaDB
+  * Oracle
+  * Microsoft SQLServer
+  * Amazon Aurora
+  * SQLite
+
+### What Can SQL do?
+  * SQL can execute queries against a database
+  * SQL can retrieve data from a database
+  * SQL can insert records in a database
+  * SQL can update records in a database
+  * SQL can delete records from a database
+  * SQL can create new databases
+  * SQL can create new tables in a database
+  * SQL can create stored procedures in a database
+  * SQL can create views in a database
+  * SQL can set permissions on tables, procedures, and views
+source: [w3schools.com](https://www.w3schools.com/sql/sql_intro.asp)
+
+### The Most Important SQL Statements:
+  * SELECT - extracts data from a database
+  * UPDATE - updates data in a database
+  * DELETE - deletes data from a database
+  * INSERT INTO - inserts new data into a database
+  * CREATE DATABASE - creates a new database
+  * ALTER DATABASE - modifies a database
+  * CREATE TABLE - creates a new table
+  * ALTER TABLE - modifies a table
+  * DROP TABLE - deletes a table
+  * CREATE INDEX - creates an index (search key)
+  * DROP INDEX - deletes an index
+Source: [w3schools.com](https://www.w3schools.com/whatis/whatis_sql.asp)NOTE: SQL keywords are NOT case sensitive: select is the same as SELECT
+
+
+## PostgreSQL: The World's Most Advanced Open Source Relational Database
+PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
 ### Install Postgres on Ubuntu
 https://tecadmin.net/install-postgresql-server-on-ubuntu/
