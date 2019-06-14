@@ -56,6 +56,24 @@ sudo su - postgres
 psql
 ```
 
+### List all database
+```{sql}
+\l
+```
+### Connect to a specific database
+```{sql}
+\c database_name
+```
+
+### List relations in the database
+```{sql}
+\d 
+```
+### Quit database
+```{sql}
+\q
+```
+
 ### Create database 
 ```{sql}
 CREATE DATABASE capstone;
