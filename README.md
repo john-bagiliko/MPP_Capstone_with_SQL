@@ -39,10 +39,11 @@ source: [w3schools.com](https://www.w3schools.com/sql/sql_intro.asp)
   * DROP TABLE - deletes a table
   * CREATE INDEX - creates an index (search key)
   * DROP INDEX - deletes an index
-Source: [w3schools.com](https://www.w3schools.com/whatis/whatis_sql.asp)NOTE: SQL keywords are NOT case sensitive: select is the same as SELECT
+Source: [w3schools.com](https://www.w3schools.com/whatis/whatis_sql.asp) 
+NOTE: SQL keywords are NOT case sensitive: select is the same as SELECT
 
 
-## PostgreSQL: The World's Most Advanced Open Source Relational Database
+### PostgreSQL: The World's Most Advanced Open Source Relational Database
 PostgreSQL is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
 ### Install Postgres on Ubuntu
